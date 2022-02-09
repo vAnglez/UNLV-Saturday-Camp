@@ -10,7 +10,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 
 ## Class Information  
 | Teacher Name:   | Garcia J, Angel   |  
-| ---:            | :---              |  
+| --------------- | ----------------- |  
 | Class Location: | TBE-B 350         |  
 | Class Times:    | 09:45am - 12:15pm |  
 |                 | 01:45pm - 03:15pm |  
