@@ -1,5 +1,5 @@
 ## [**Welcome to the Cybersecurity Spring 2022 STEM Saturday Camp!**](https://register.edoutreach.unlv.edu/wconnect/CourseStatus.awp?&course=221RG1036)  
-![UNLV Logo](https://github.com/vAnglez/UNLV-Saturday-Camp/blob/51d56ddcaef41b3bcc09a833fc75d27f51c4f3bb/UNLV%20Educational%20Outreach.jpg)  
+![UNLV Logo](/Images/UNLVEducationalOutreach.jpg)  
 
 ---
 
@@ -9,16 +9,17 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 ---
 
 ## Class Information  
-  Teacher Name: Garcia J, Angel  
-Class Location: TBE-B 350  
-   Class Times: 09:45am - 12:15pm (Morning)
-                01:45pm - 03:15pm  (Afternoon)  
+| Teacher Name: | Garcia J, Angel |
+| ------------------------- | ----------- |
+| Class Location: | TBE-B 350  |
+| Class Times: | 09:45am - 12:15pm |  
+| | 01:45pm - 03:15pm |  
 
 ---
 
 ## Course Subjects w/Dates
 - [x] 01/29 - Course Introduction/OSINT
-- [ ] 02/05 - Networking
+- [x] 02/05 - Networking
 - [ ] 02/12 - Vulnerabilities w/Networking Devices
 - [ ] 02/26 - Kali Linux Tools & Operating Systems
 - [ ] 03/05 - Hardware for Cybersecurity
@@ -36,6 +37,7 @@ Class Location: TBE-B 350
 
 ### Class Slides
 - [01/29](https://docs.google.com/presentation/d/1HwR5L5xPSL9llN19bY38S2mRObvdvpfbcyhxqpxnOxg/edit?usp=sharing)
+- 02/05 - No Slides
 
 ---
 
