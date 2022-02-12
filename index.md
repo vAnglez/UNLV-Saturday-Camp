@@ -9,11 +9,11 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 ---
 
 ## Class Information  
-| Teacher Name:   | Garcia J, Angel   |  
-| --------------- | ----------------- |  
-| Class Location: | TBE-B 350         |  
-| Class Times:    | 09:45am - 12:15pm |  
-|                 | 01:45pm - 03:15pm |  
+| Teacher Name:    | Garcia J, Angel   |  
+| ---------------- | ----------------- |  
+| Class Location:  | TBE-B 350         |  
+| Morning Class:   | 09:45am - 12:15pm |  
+| Afternoon Class: | 01:45pm - 03:15pm |  
 
 ---
 
@@ -38,6 +38,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 ### Class Slides
 - [01/29](https://docs.google.com/presentation/d/1HwR5L5xPSL9llN19bY38S2mRObvdvpfbcyhxqpxnOxg/edit?usp=sharing)
 - 02/05 - No Slides
+- [02/12](https://docs.google.com/presentation/d/1b7qyU-7ao-WI9gTtiZARNtENHiU6KxXnMVsiyyb5xWg/edit?usp=sharing)
 
 ---
 
