@@ -10,7 +10,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 
 ## Class Information  
 | Teacher Name:    | Garcia J, Angel   |  
-| ---| --- |  
+| --- | --- |  
 | Class Location:  | TBE-B 350         |  
 | Morning Class:   | 09:45am - 12:15pm |  
 | Afternoon Class: | 01:45pm - 03:15pm |  
@@ -21,8 +21,8 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [x] 01/29 - Course Introduction/OSINT
 - [x] 02/05 - Networking
 - [x] 02/12 - Vulnerabilities w/Networking Devices
-- [ ] 02/26 - Kali Linux Tools & Operating Systems
-- [ ] 03/05 - Hardware for Cybersecurity
+- [x] 02/26 - Kali Linux Tools & Operating Systems
+- [x] 03/05 - Hardware for Cybersecurity
 - [ ] 03/19 - Encryption/Decryption & Password Cracking
 - [ ] 04/09 - Spoofing & Social Engineering
 - [ ] 04/23 - Programming Languages
@@ -40,6 +40,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - 02/05 - No Slides
 - [02/12](https://docs.google.com/presentation/d/1b7qyU-7ao-WI9gTtiZARNtENHiU6KxXnMVsiyyb5xWg/edit?usp=sharing)
 - [02/26](https://docs.google.com/presentation/d/1ubVvI_ZnP4D22NNsuO2HCDr-_4KM3SZFDGNtJ75X4GE/edit?usp=sharing)
+- [03/05](https://docs.google.com/presentation/d/1qQiZE04u05LQOYQG2CQ9tE_muOJ1Qi-0yOsXTRvdGM0/edit?usp=sharing)
 
 ---
 
