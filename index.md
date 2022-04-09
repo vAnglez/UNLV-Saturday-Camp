@@ -11,7 +11,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 ## Class Information  
 **Teacher Name**: Garcia J, Angel   
 **Class Location**: TBE-B 348  
-**Morning Class**: 09:45am - 12:15pm  
+**Morning Class**: 09:45am - 11:15pm  
 **Afternoon Class**: 01:45pm - 03:15pm  
 
 ---
