@@ -23,7 +23,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [x] 02/26 - Kali Linux Tools & Operating Systems
 - [x] 03/05 - Hardware for Cybersecurity
 - [x] 03/19 - Encryption/Decryption & Password Cracking
-- [ ] 04/09 - Spoofing & Social Engineering
+- [x] 04/09 - Spoofing & Social Engineering
 - [ ] 04/23 - Programming Languages
 - [ ] 04/30 - Scripting   
 - [ ] 05/07 - Capture the Flag Game  
@@ -41,6 +41,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [02/26](https://docs.google.com/presentation/d/1ubVvI_ZnP4D22NNsuO2HCDr-_4KM3SZFDGNtJ75X4GE/edit?usp=sharing)
 - [03/05](https://docs.google.com/presentation/d/1qQiZE04u05LQOYQG2CQ9tE_muOJ1Qi-0yOsXTRvdGM0/edit?usp=sharing)
 - [03/19](https://docs.google.com/presentation/d/1VsPO1Xlj8m-FsCKp_z2n3GeL5U6B0ZwSDB5KI3iaz8I/edit?usp=sharing)
+- [04/09](https://docs.google.com/presentation/d/1wEbVRBGGMKXuW0VU6fdB_PsMlU0S-qmOi_ZwCJj3bwE/edit?usp=sharing)
 
 ---
 
