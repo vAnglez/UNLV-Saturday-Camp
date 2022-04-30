@@ -25,7 +25,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [x] 03/19 - Encryption/Decryption & Password Cracking
 - [x] 04/09 - Spoofing & Social Engineering
 - [x] 04/23 - Programming Languages
-- [ ] 04/30 - Scripting   
+- [x] 04/30 - Scripting   
 - [ ] 05/07 - Capture the Flag Game  
 
 ---
