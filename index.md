@@ -44,7 +44,7 @@ Want to crack your neighbor's WiFi, with consent of course? Or how about find ou
 - [04/09](https://docs.google.com/presentation/d/1wEbVRBGGMKXuW0VU6fdB_PsMlU0S-qmOi_ZwCJj3bwE/edit?usp=sharing)
 - [04/23](https://docs.google.com/presentation/d/1ifUtnkfyFtlJNziubPY0d8v8yhaPIEfQZvtwwzGV2to/edit?usp=sharing)
 - [04/30](https://docs.google.com/presentation/d/153nsmDJJrzys1VQgXMiYffppkPRXnoDYu1hzWC0QHnQ/edit?usp=sharing)
-- [05/06](https://docs.google.com/presentation/d/175GAGsh8cAxbDCY610qsFj4DBkgpgnnFphQJUJy1Bdc/edit?usp=sharing)
+- [05/07](https://docs.google.com/presentation/d/175GAGsh8cAxbDCY610qsFj4DBkgpgnnFphQJUJy1Bdc/edit?usp=sharing)
 
 ---
 
