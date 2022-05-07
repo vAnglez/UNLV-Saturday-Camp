@@ -4,9 +4,9 @@ import smtplib, ssl
 def sendemail(message):
     smtp_server = "smtp.gmail.com"
     port = 587
-    sender_email = "iamchristhemagicunicorn@gmail.com"
-    password = "Steelers#7"
-    receiver_email = "iamchristhemagicunicorn@gmail.com"
+    sender_email = "insert sending email here"
+    password = "insert sending email's password here"
+    receiver_email = "insert target email here"
 
     context = ssl.create_default_context()
 
